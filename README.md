@@ -1,7 +1,15 @@
 ember-measure-build-perf
 ==============================================================================
 
-[Short description of the addon.]
+Adds simple command for measuring build speed.
+
+```
+ember measure-build-perf
+```
+
+```
+ember measure-build-perf -c "ember build --production" -i 3
+```
 
 
 Compatibility
